@@ -1,0 +1,12 @@
+{
+  "skill": "sep-sop",
+  "test_cases": [
+    {"input": "Build an autonomous SEO mini game website from scratch", "should_trigger": true},
+    {"input": "Create a clean single game site with keyword research and open source code", "should_trigger": true},
+    {"input": "Make me a 2048 clone site optimized for Google", "should_trigger": true},
+    {"input": "挖新词，帮我做谷歌趋势小游戏选词和建站", "should_trigger": true},
+    {"input": "执行 sep-sop 建站流程", "should_trigger": true},
+    {"input": "Write a blog post about games", "should_trigger": false},
+    {"input": "Help me debug my React app", "should_trigger": false}
+  ]
+}

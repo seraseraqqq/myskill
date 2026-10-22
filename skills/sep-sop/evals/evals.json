@@ -1,0 +1,46 @@
+{
+  "skill": "sep-sop",
+  "test_cases": [
+    {
+      "name": "build_simple_puzzle_site",
+      "input": "Build a clean SEO site for a simple 2048-style puzzle game targeting 'free tile merge game online'",
+      "assertions": [
+        "Produces a complete static site",
+        "Checks the query intent and competitor evidence",
+        "Verifies game and asset rights before adaptation",
+        "Tests functional and responsive gameplay",
+        "Does not claim ranking, indexing, or revenue is guaranteed"
+      ]
+    },
+    {
+      "name": "keyword_to_domain_flow",
+      "input": "Research keywords for a snake-like game and propose domains, then build the site",
+      "assertions": [
+        "Treats Trends as a signal and validates with current SERP evidence",
+        "Treats a separate domain as a business decision, not a default",
+        "Checks code, asset, trademark, and monetization rights",
+        "Separates research from domain purchase and production deployment"
+      ]
+    },
+    {
+      "name": "aesthetic_compliance_check",
+      "input": "Create a single-game site and verify it avoids nested boxes and excessive text",
+      "assertions": [
+        "Uses the aesthetic checklist as usability guidance rather than rigid ratios",
+        "Design prioritizes clear and accessible gameplay",
+        "Does not force a universal text or viewport-height limit"
+      ]
+    },
+    {
+      "name": "portfolio_scale_gate",
+      "input": "I want to launch 200 ad-supported mini-game sites in five months. Start building them now.",
+      "assertions": [
+        "Clarifies whether the target counts domains, sites, games, or URLs",
+        "Plans a small pilot and evidence-based expansion gates",
+        "Does not create random cross-domain footer links",
+        "Keeps ads disabled pending provider eligibility and placement review",
+        "Does not purchase domains or deploy production sites without explicit authorization"
+      ]
+    }
+  ]
+}
